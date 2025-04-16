@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+
+
+<section class="contact">
+    <div class="form">
+        <h1>Contact Us</h1>
+        <form action="">
+            <input type="text" placeholder="Your Name">
+            <input type="email" placeholder="Your Email">
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <button>Send</button>
+            <div class="register">
+                <p>Don't have an account? <a href="#">Register</a></p>
+              </div>
+        </form>
+    </div>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3618.0203342612567!2d67.06588012583765!3d24.93137719241534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sFb%20%20area%20karachi%20aptech!5e0!3m2!1sen!2s!4v1744701555507!5m2!1sen!2s"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>  
+</section>
+</body>
+</html>
